@@ -1,0 +1,258 @@
+[19-Oct-2021 09:03:56 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'purewishuser'@'localhost' (using password: YES) in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[19-Oct-2021 09:03:56 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[19-Oct-2021 09:03:56 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[19-Oct-2021 09:03:57 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'purewishuser'@'localhost' (using password: YES) in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[19-Oct-2021 09:03:57 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[19-Oct-2021 09:03:57 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[19-Oct-2021 09:03:58 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'purewishuser'@'localhost' (using password: YES) in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[19-Oct-2021 09:03:58 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[19-Oct-2021 09:03:58 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[19-Oct-2021 09:04:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'purewishuser'@'localhost' (using password: YES) in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[19-Oct-2021 09:04:08 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[19-Oct-2021 09:04:08 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[19-Oct-2021 09:04:10 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'purewishuser'@'localhost' (using password: YES) in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[19-Oct-2021 09:04:10 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[19-Oct-2021 09:04:10 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[19-Oct-2021 09:04:10 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'purewishuser'@'localhost' (using password: YES) in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[19-Oct-2021 09:04:10 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[19-Oct-2021 09:04:10 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[19-Oct-2021 09:04:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'purewishuser'@'localhost' (using password: YES) in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[19-Oct-2021 09:08:58 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'purewishuser'@'localhost' (using password: YES) in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[19-Oct-2021 09:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/login.php on line 8
+[19-Oct-2021 09:08:58 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/login.php on line 9
+[19-Oct-2021 09:08:58 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/login.php on line 12
+[19-Oct-2021 09:08:58 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/login.php on line 13
+[19-Oct-2021 09:08:58 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/login.php on line 18
+[19-Oct-2021 14:07:26 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[19-Oct-2021 14:07:26 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[19-Oct-2021 14:07:26 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[24-Dec-2021 02:31:07 America/Boise] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[24-Dec-2021 02:31:07 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[24-Dec-2021 02:31:07 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[24-Dec-2021 02:31:08 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[24-Dec-2021 02:31:08 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[24-Dec-2021 02:31:08 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[24-Dec-2021 02:31:10 America/Boise] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[24-Dec-2021 02:31:10 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[24-Dec-2021 02:31:10 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[24-Dec-2021 02:31:13 America/Boise] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[24-Dec-2021 02:31:13 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[24-Dec-2021 02:31:13 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[24-Dec-2021 02:31:14 America/Boise] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[24-Dec-2021 02:31:14 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[24-Dec-2021 02:31:14 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[24-Dec-2021 02:31:15 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[24-Dec-2021 02:31:15 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[24-Dec-2021 02:31:15 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[24-Dec-2021 02:31:16 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[24-Dec-2021 02:31:16 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[24-Dec-2021 02:31:16 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[24-Dec-2021 02:31:18 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[24-Dec-2021 02:31:18 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[24-Dec-2021 02:31:18 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[24-Dec-2021 02:31:25 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[24-Dec-2021 02:31:25 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[24-Dec-2021 02:31:25 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[26-Jan-2022 14:32:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[26-Jan-2022 14:32:27 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[26-Jan-2022 14:32:27 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[26-Jan-2022 14:32:27 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[26-Jan-2022 14:32:27 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[26-Jan-2022 14:32:27 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[26-Jan-2022 14:32:37 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[26-Jan-2022 14:32:37 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[26-Jan-2022 14:32:37 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[26-Jan-2022 14:38:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[26-Jan-2022 14:38:33 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[26-Jan-2022 14:38:33 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[15-Feb-2022 10:43:37 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[15-Feb-2022 10:43:37 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[15-Feb-2022 10:43:37 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[15-Feb-2022 10:44:32 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[15-Feb-2022 10:44:32 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[15-Feb-2022 10:44:32 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[15-Feb-2022 11:21:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[15-Feb-2022 11:21:03 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[15-Feb-2022 11:21:03 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[15-Feb-2022 12:04:41 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[15-Feb-2022 12:04:41 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[15-Feb-2022 12:04:41 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[17-Feb-2022 12:12:18 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[17-Feb-2022 12:12:18 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[17-Feb-2022 12:12:18 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[17-Feb-2022 12:12:24 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[17-Feb-2022 12:12:24 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[17-Feb-2022 12:12:24 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[02-Mar-2022 10:43:28 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 10:43:28 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 10:44:50 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 10:44:50 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 11:39:45 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 11:39:45 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 11:39:46 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 11:39:46 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 11:39:46 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 11:39:46 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 11:40:11 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 11:40:11 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 11:40:12 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 11:40:12 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 11:40:42 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 11:40:42 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 11:52:10 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 11:52:10 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 11:52:15 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 11:52:15 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 11:52:19 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 11:52:19 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 12:19:48 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 12:19:48 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 13:10:54 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 13:10:54 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 21:02:35 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 21:02:35 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 22:33:42 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 22:33:42 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 22:33:45 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 22:33:45 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 22:33:57 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 22:33:57 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 22:34:34 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 22:34:34 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[02-Mar-2022 22:45:05 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[02-Mar-2022 22:45:05 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 02:16:17 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 02:16:17 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 02:16:34 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 02:16:34 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 02:16:43 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 02:16:43 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 02:17:47 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 02:17:47 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 02:43:25 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 02:43:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 02:43:25 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 02:43:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 03:37:23 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 03:37:23 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 06:22:18 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 06:22:18 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 06:22:22 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 06:22:22 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 06:22:25 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 06:22:25 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 07:11:08 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 07:11:08 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 07:11:09 America/Boise] PHP Warning:  Undefined array key "volusername" in /home1/rgxszumy/public_html/pwfu/processvolunteers.php on line 9
+[03-Mar-2022 07:11:09 America/Boise] PHP Warning:  Undefined array key "voluseremail" in /home1/rgxszumy/public_html/pwfu/processvolunteers.php on line 10
+[03-Mar-2022 07:11:09 America/Boise] PHP Warning:  Undefined array key "volusermessage" in /home1/rgxszumy/public_html/pwfu/processvolunteers.php on line 11
+[03-Mar-2022 07:30:51 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 07:30:51 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 08:20:36 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 08:20:36 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 08:20:37 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 08:20:37 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 09:10:05 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 09:10:05 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 09:28:35 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 09:28:35 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 09:28:36 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 09:28:36 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 10:00:45 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 10:00:45 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 13:04:02 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 13:04:02 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 13:50:05 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 13:50:05 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 13:50:22 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 13:50:22 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 13:51:46 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 13:51:46 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:15:57 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:15:57 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:23:00 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:23:00 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:30:11 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:30:11 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:30:12 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:30:12 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:30:12 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:30:12 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:30:15 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:30:15 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:30:29 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:30:29 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:30:47 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:30:47 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:30:47 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:30:47 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:35:09 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:35:09 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:35:09 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:35:09 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:35:38 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:35:38 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 14:35:44 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 14:35:44 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 16:48:29 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 16:48:29 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 16:49:21 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 16:49:21 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 17:02:28 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 17:02:28 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 19:15:23 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 19:15:23 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 20:22:48 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 20:22:48 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 20:22:58 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 20:22:58 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 20:34:36 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 20:34:37 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 21:10:11 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 21:10:11 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 21:10:22 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 21:10:22 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 21:35:30 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 21:35:30 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 22:17:21 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 22:17:21 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 22:17:27 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 22:17:27 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 22:17:29 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 22:17:29 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[03-Mar-2022 22:23:52 America/Boise] PHP Warning:  Undefined array key "login_user" in /home1/rgxszumy/public_html/pwfu/session.php on line 5
+[03-Mar-2022 22:23:52 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home1/rgxszumy/public_html/pwfu/session.php on line 11
+[27-Apr-2022 13:34:14 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 13:34:15 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 13:34:15 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[27-Apr-2022 13:37:13 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 13:37:13 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 13:37:13 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[27-Apr-2022 14:01:11 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 14:01:12 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 14:01:12 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[27-Apr-2022 14:01:19 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 14:01:19 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 14:01:19 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[27-Apr-2022 14:17:58 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 14:17:58 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 14:17:58 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[27-Apr-2022 14:18:03 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 14:18:04 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 14:18:04 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[27-Apr-2022 14:18:04 America/Boise] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 14:18:05 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 14:18:05 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[27-Apr-2022 14:18:43 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 14:18:44 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 14:18:44 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[27-Apr-2022 14:18:50 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 14:18:50 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 14:18:50 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
+[27-Apr-2022 15:03:28 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 15:03:28 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/processvolunteers.php on line 9
+[27-Apr-2022 15:03:28 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/processvolunteers.php on line 10
+[27-Apr-2022 15:03:28 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/processvolunteers.php on line 11
+[27-Apr-2022 15:09:00 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/rgxszumy/public_html/pwfu/config.php on line 6
+[27-Apr-2022 15:09:02 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/rgxszumy/public_html/pwfu/session.php on line 7
+[27-Apr-2022 15:09:02 America/Boise] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home1/rgxszumy/public_html/pwfu/session.php on line 9
